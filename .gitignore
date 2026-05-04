@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.h5
+*.save
+*.png
+.DS_Store
+*.log
